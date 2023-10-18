@@ -1,4 +1,4 @@
-*this repo is forked from the development brach of [akeeba/s3](https://github.com/akeeba/s3/commit/7f5b3e929c93eb02ba24472560c0cbbef735aed9)
+*this repo is forked from the development brach of [akeeba/s3/commit/7f5b3e929c93eb02ba24472560c0cbbef735aed9](https://github.com/akeeba/s3/commit/7f5b3e929c93eb02ba24472560c0cbbef735aed9) and tagged as 2.3.1.
 # Akeeba Amazon S3 Connector
 
 A compact, dependency-less Amazon S3 API client implementing the most commonly used features
